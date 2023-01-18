@@ -1,10 +1,12 @@
 Algoritmo "Idade"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 
 Var
    a: inteiro
 
 Inicio
-   Escreval("Digite seu ano de nascimento: ")
+   Escreval("Digite seu ano de nascimento:  ")
    Leia(a)
 
    se (2023 - a >= 18) entao
